@@ -13,8 +13,10 @@
 * science
 ** philosophy
    stanford encyclopedia of philosophy
-    #+OPTIONS: \n:t
+   #+OPTIONS: \n:t
    [[https://web.archive.org/https://plato.stanford.edu/][link]]
+   #+HTML: <br>
+   
 ** psychology
 ** tech
    huge disaster recovery plan by Solène Rapenne
