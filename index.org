@@ -38,6 +38,10 @@
     #+OPTIONS: \n:t
     [[https://web.archive.org/https://docs.invidious.io/instances][link]]
     #+HTML: <br>
+    syncthing, a continuous file synchronization program
+    #+OPTIONS: \n:t
+    [[https://syncthing.net][link]]
+    #+HTML: <br>
 *** linux 
 * entertainment
 ** gaming
