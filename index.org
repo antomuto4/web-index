@@ -2,9 +2,10 @@
 #+SUBTITLE: personal suggested sites you should visit at least once in a lifetime.
 #+OPTIONS: toc:2
 
-#+ATTR_HTML: :align middle
 #+ATTR_HTML: :width 48
+#+HTML: <center>
 [[./img/251px-Larry-the-cow-full-udder.svg.png]] [[./img/GnuHeadWalsh.jpg]]  [[./img/KitchenSinkWhite.png]]
+#+HTML: </center>
 
 #+HTML: <center>
 
