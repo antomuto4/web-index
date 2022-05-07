@@ -1,3 +1,6 @@
+TOC:
+- [html-css](#html-css)
+
 ```	   __________________________________________________
 
 			  ANTOMUTO'S WEB INDEX
@@ -69,4 +72,40 @@ _________________
 
   play flash games after the "death" of adobe flash
   [link](https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/)
+```
+
+# HTML CSS
+
+when converting the `org` file to html, it won't look very pretty. I suggest you copy paste this bit on top of the generated html file.
+```
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+   background-color: #1d1f21;
+   color: #d4c0d0;
+   margin-left: 15%;
+   margin-top: 3%;
+   margin-bottom: 3%;
+   font-family: 'Open Sans', sans-serif;
+}
+a {
+   color: #6063c1;
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: underline;
+}
+
+h2 {
+}
+
+h3 {
+    margin-left: -10%;
+}
+
+h4 {
+    margin-left: -10%;
+}
+
+</style>
 ```
