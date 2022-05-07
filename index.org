@@ -6,6 +6,7 @@
 #+ATTR_HTML: :width 48
 [[./img/251px-Larry-the-cow-full-udder.svg.png]] [[./img/GnuHeadWalsh.jpg]]  [[./img/KitchenSinkWhite.png]]
 
+#+HTML: <center>
 
 * science
 ** philosophy
@@ -47,3 +48,6 @@
     #+OPTIONS: \n:t
     [[https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/][link]]
     #+HTML: <br>
+
+
+#+HTML: </center>
