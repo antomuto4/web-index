@@ -1,6 +1,7 @@
 #+TITLE: antomuto's web index
 #+SUBTITLE: personal suggested sites you should visit at least once in a lifetime.
-#+OPTIONS: toc:2
+#+OPTIONS: toc:3
+#+AUTHOR: antomuto4
 
 #+ATTR_HTML: :width 48
 #+HTML: <center>
