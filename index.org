@@ -1,0 +1,49 @@
+#+TITLE: antomuto's web index
+#+SUBTITLE: personal suggested sites you should visit at least once in a lifetime.
+#+OPTIONS: toc:2
+
+#+ATTR_HTML: :align middle
+#+ATTR_HTML: :width 48
+[[./img/251px-Larry-the-cow-full-udder.svg.png]] [[./img/GnuHeadWalsh.jpg]]  [[./img/KitchenSinkWhite.png]]
+
+
+* science
+** philosophy
+   stanford encyclopedia of philosophy
+    #+OPTIONS: \n:t
+   [[https://web.archive.org/https://plato.stanford.edu/][link]]
+    #+HTML: <br>
+** psychology
+** tech
+   huge disaster recovery plan by Solène Rapenne
+    #+OPTIONS: \n:t
+   [[https://web.archive.org/https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html][link]]
+    #+HTML: <br>
+   
+   lainchan
+    #+OPTIONS: \n:t
+   [[https://lainchan.org][link]]
+    #+HTML: <br>
+   
+   kiwix, store any website on your mobile or phone, easily
+    #+OPTIONS: \n:t
+   [[https://www.kiwix.org/en][link]]
+    #+HTML: <br>
+*** self-hosting
+    list of self-hosting services
+    #+OPTIONS: \n:t
+    [[https://web.archive.org/https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md][link]]
+    #+HTML: <br>
+    invidious, an open-source youtube alternative client
+    #+OPTIONS: \n:t
+    [[https://web.archive.org/https://docs.invidious.io/instances][link]]
+    #+HTML: <br>
+
+*** linux 
+* entertainment
+** gaming
+*** flash
+    play flash games after the "death" of adobe flash
+    #+OPTIONS: \n:t
+    [[https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/][link]]
+    #+HTML: <br>
