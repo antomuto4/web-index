@@ -1,13 +1,13 @@
 TOC:
 - [html-css](#html-css)
-
-```	   __________________________________________________
+```
+	   __________________________________________________
 
 			  ANTOMUTO'S WEB INDEX
 	      personal suggested sites you should visit at
 		       least once in a lifetime.
 
-				 antomuto4
+			       antomuto4
 	   __________________________________________________
 
 
@@ -18,9 +18,17 @@ _________________
 .. 1.1 philosophy
 .. 1.2 psychology
 .. 1.3 tech
+..... 1.3.1 self-hosting
+..... 1.3.2 linux
 2 entertainment
 .. 2.1 gaming
+..... 2.1.1 flash
+.. 2.2 music
+..... 2.2.1 vaporwave
 
+
+[./img/251px-Larry-the-cow-full-udder.svg.png] [./img/GnuHeadWalsh.jpg]
+[./img/KitchenSinkWhite.png]
 
 
 1 science
@@ -30,7 +38,10 @@ _________________
 ~~~~~~~~~~~~~~
 
   stanford encyclopedia of philosophy
-  [link](https://web.archive.org/https://plato.stanford.edu/)
+  [link]
+
+
+[link] https://web.archive.org/https://plato.stanford.edu/
 
 
 1.2 psychology
@@ -41,20 +52,37 @@ _________________
 ~~~~~~~~
 
   huge disaster recovery plan by Solène Rapenne
-  [link](https://web.archive.org/https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html)
+  [link]
   lainchan
-  [link](https://lainchan.org)
+  [link]
   kiwix, store any website on your mobile or phone, easily
-  [link](https://www.kiwix.org/en)
+  [link]
 
+
+[link]
+https://web.archive.org/https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html
+
+[link] https://lainchan.org
+
+[link] https://www.kiwix.org/en
 
 1.3.1 self-hosting
 ------------------
 
   list of self-hosting services
-  [link](https://web.archive.org/https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md)
+  [link]
   invidious, an open-source youtube alternative client
-  [link](https://web.archive.org/https://docs.invidious.io/instances)
+  [link]
+  syncthing, a continuous file synchronization program
+  [link]
+
+
+[link]
+https://web.archive.org/https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md
+
+[link] https://web.archive.org/https://docs.invidious.io/instances
+
+[link] https://syncthing.net
 
 
 1.3.2 linux
@@ -71,7 +99,32 @@ _________________
 -----------
 
   play flash games after the "death" of adobe flash
-  [link](https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/)
+  [link]
+
+
+[link]
+https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/
+
+
+2.2 music
+~~~~~~~~~
+
+2.2.1 vaporwave
+---------------
+
+  broken machine films - 'your chance to live.'
+  [link]
+  infinity frequencies - computer death
+  [link]
+  prism lite - with you
+  [link]
+
+
+[link] https://www.youtube.com/shorts/0DgCI3GPm2Y
+
+[link] https://www.youtube.com/watch?v=RMEauTuOSK0
+
+[link] https://youtu.be/WUgpUIWWgx4
 ```
 
 # HTML CSS
