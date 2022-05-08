@@ -54,4 +54,19 @@
     #+HTML: <br>
 
 
+** music
+*** vaporwave
+    broken machine films - 'your chance to live.'
+    #+OPTIONS: \n:t
+    [[https://www.youtube.com/shorts/0DgCI3GPm2Y][link]]
+    #+HTML: <br>
+    infinity frequencies - computer death
+    #+OPTIONS: \n:t
+    [[https://www.youtube.com/watch?v=RMEauTuOSK0][link]]
+    #+HTML: <br>
+    prism lite - with you
+    #+OPTIONS: \n:t
+    [[https://youtu.be/WUgpUIWWgx4][link]]
+    #+HTML: <br>
+    
 #+HTML: </center>
