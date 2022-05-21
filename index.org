@@ -11,6 +11,12 @@
 #+HTML: <center>
 
 * science
+** organizations to support
+   the venus project
+   #+OPTIONS: \n:t
+   [[https://www.thevenusproject.com/][link]]
+   #+HTML: <br>
+
 ** philosophy
    stanford encyclopedia of philosophy
    #+OPTIONS: \n:t
@@ -20,17 +26,24 @@
 ** psychology
 ** tech
    huge disaster recovery plan by Solène Rapenne
-    #+OPTIONS: \n:t
+   #+OPTIONS: \n:t
    [[https://web.archive.org/https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html][link]]
-    #+HTML: <br>
+   #+HTML: <br>
    lainchan
-    #+OPTIONS: \n:t
+   #+OPTIONS: \n:t
    [[https://lainchan.org][link]]
-    #+HTML: <br>
+   #+HTML: <br>
    kiwix, store any website on your mobile or phone, easily
-    #+OPTIONS: \n:t
+   #+OPTIONS: \n:t
    [[https://www.kiwix.org/en][link]]
-    #+HTML: <br>
+   #+HTML: <br>
+   ipv4 flag day
+   #+OPTIONS: \n:t
+   [[https://web.archive.org/https://ipv4flagday.net/][link]]
+   #+HTML: <br>
+   how to build a solar-powered raspberry pi
+   #+OPTIONS: \n:t
+   [[https://web.archive.org/howchoo.com/g/mmfkn2rhoth/raspberry-pi-solar-power][link]]
 *** self-hosting
     list of self-hosting services
     #+OPTIONS: \n:t
@@ -44,6 +57,10 @@
     #+OPTIONS: \n:t
     [[https://syncthing.net][link]]
     #+HTML: <br>
+    maloja, self-hosted music scrobble database to create personal listening statistics and charts
+    #+OPTIONS: \n:t
+    [[https://github.com/krateng/maloja][link]]
+    #+HTML: <br>
 *** linux 
 * entertainment
 ** gaming
@@ -52,7 +69,6 @@
     #+OPTIONS: \n:t
     [[https://web.archive.org/https://www.denofgeek.com/games/how-to-play-flash-games-download-browser/][link]]
     #+HTML: <br>
-
 
 ** music
 *** vaporwave
