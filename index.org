@@ -62,6 +62,11 @@
     [[https://github.com/krateng/maloja][link]]
     #+HTML: <br>
 *** linux 
+    installing gentoo offline
+    #+OPTIONS: \n:t
+    [[https://web.archive.org/https://forums.gentoo.org/viewtopic-p-3461249.html][link]]
+    [[https://web.archive.org/https://forums.gentoo.org/viewtopic-t-1061728-start-0.html][link 2]]
+    #+HTML: <br>
 * entertainment
 ** gaming
 *** flash
