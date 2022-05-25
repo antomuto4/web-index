@@ -25,6 +25,10 @@
    
 ** psychology
 ** tech
+   privacy guide: fight surveillance with encryption and privacy tools
+   #+OPTIONS: \n:t
+   [[http://web.archive.org/https://privacytools.io][link]]
+   #+HTML: <br>
    huge disaster recovery plan by Solène Rapenne
    #+OPTIONS: \n:t
    [[https://web.archive.org/https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html][link]]
