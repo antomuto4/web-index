@@ -1,0 +1,31 @@
+** Wiki Index
+ - [[https://www.reddit.com/r/Piracy/wiki/megathread/][r/Piracy]] a community dedicated to the discussion of digital piracy by *user: Nirvana*
+ - [[https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki][r/FMHY]] Overall massive privacy wiki by *user: Serial*
+ - [[https://rentry.org/Piracy-BG][Rentry Piracy BG]] to Piracy by *user: Tyxton*
+** Movies/Shows
+!!! Warning: It is recommended to use an adblocker. !!!
+ - [[https://soap2day.to/][Soap2Day]] by *user: Antomuto*
+*** Anime
+ - [[https://zoro.to][Zoro]] by *user: Tyxton*
+ - [[https://twist.moe][Twist]] by *user: Tyxton*
+ - [[https://animekisa.tv][Animekisa]] by *user: Tyxton*
+ - [[https://nyaa.si][Nyaa]] Japanese torrents of all medias by *user: Antomuto*
+** Games
+!!! Warning: We take no risk in any potential malware you might get yourself into. All we do is give links that have worked for us. That does not at all prove the security of a particular site but rather the software. !!! 
+ - [[https://fitgirl-repack.com/][FitGirl Repack]] (Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites) by *user: Antomuto*
+ - [[https://crohasit.net/][Crohasit]] by *user: Antomuto*
+ - [[https://gog-games.com][GOG-Games]] by *user: Antomuto*
+ - [[https://steamunlocked.net/][STEAMUNLOCKED]] allows you to download your favorite games pre-installed on steam without the cost by *user: Antomuto*
+** E-Book Libraries
+ - [[https://ug1lib.org][Z-Library]] The world's largest ebook library by *user: Serial*
+ - [[https://pdfdrive.com][PDF Drive]] online PDF search engine by *user: Antomuto*
+** Music
+ - [[http://www.slsknet.org][Soulseek]] a P2P platform that allows you to download pretty much anything music related you can think of. by *user: Wavy*
+ - [[https://github.com/nukeop/nuclear][Nuclear]] is a free music streaming program that pulls content from free sources all over the internet. by *user: DwellingMelancholic*
+** Science
+ - [[http://libgen.rs][Library Genesis]] a scientific community targeting collection of books on natural science disciplines and engineering. by *user: Serial*
+ - [[https://plato.stanford.edu][The Stanford Encyclopedia of Philosophy]] by *user: Antomuto*
+ - [[https://www.learnreligions.com][Learn Religions]] by *user: Antomuto*
+ - [[https://eric.ed.gov][ERIC]] Education Resources Information Center (ERIC) is a comprehensive, easy-to-use, searchable, Internet-based bibliographic and full-text database of education research and information by *user: Antomuto*
+ - [[https://www.semanticscholar.org][Semantic Scholar]] Semantic Scholar provides free, AI-driven search and discovery tools, and open resources for the global research community by *user: Antomuto*
+ - [[https://cuteboyprogrammers.com/pdf][CuteBoyProgrammers]] Archive of a handful of PDFs for programming, operating systems, & more by *user: hex7c*
